@@ -23,4 +23,8 @@ python3 testing.py
 cython -a Depreciated\example_cy.pyx
 ```
 
-Note : It generates a HTML File.
+*  It generates a HTML File.
+
+## Note
+
+All the Dev and Testing Part are done in `Linux` System, so not sure about any bugs in Windows/Mac OS.
